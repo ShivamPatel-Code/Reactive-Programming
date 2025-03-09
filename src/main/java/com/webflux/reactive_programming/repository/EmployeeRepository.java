@@ -27,7 +27,7 @@ public class EmployeeRepository {
                 .findFirst();
     }
 
-    public Employee saveEmployee(Employee employee){
+    public Employee save(Employee employee){
         employeeList.add(employee);
         return employee;
     }
