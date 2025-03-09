@@ -86,3 +86,10 @@ The service will start running on [http://localhost:8080](http://localhost:8080)
 
 - **404 Not Found:** Returned if the requested employee is not found.
 - **400 Bad Request:** Returned for malformed requests.
+
+## Tests
+
+<img width="1146" alt="Screenshot 2025-03-09 at 1 10 35 AM" src="https://github.com/user-attachments/assets/de3f9fc8-1f3e-42db-bd78-0ee0983dc72a" />
+<img width="816" alt="Screenshot 2025-03-09 at 1 09 17 AM" src="https://github.com/user-attachments/assets/11c69cb4-17d5-4db7-9878-5deb52e27934" />
+<img width="1147" alt="Screenshot 2025-03-09 at 1 16 02 AM" src="https://github.com/user-attachments/assets/33e38440-5316-40ff-b1fc-2b9c65ff3fc4" />
+<img width="811" alt="temp" src="https://github.com/user-attachments/assets/74d8efbe-438d-4155-8d70-f045e2b552d7" />
