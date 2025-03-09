@@ -21,11 +21,11 @@ public class EmployeeService {
         return employeeRepository.findAll();
     }
 
-    public Optional<Employee> getEmployeeById(@PathVariable Long id){
+    public Optional<Employee> getEmployeeById(Long id){
         return employeeRepository.findEmployeeById(id);
     }
 
-    public Employee createEmployee(@PathVariable Employee employee){
+    public Employee createEmployee(Employee employee){
         return employeeRepository.save(employee);
     }
 }
